@@ -19,3 +19,4 @@ The commands below load YCSB workloads and then run YCSB transactions
 ./load_ycsb.sh
 ycsb.sh
 ```
+
